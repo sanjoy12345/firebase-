@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "46649118081",
+    "firebase_url": "https://fir-f24a9.firebaseio.com",
+    "project_id": "fir-f24a9",
+    "storage_bucket": "fir-f24a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46649118081:android:d0e744786869e42e",
+        "android_client_info": {
+          "package_name": "buildappswithpaulo.com.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46649118081-hsr7k40i2ln8qkb78o8ilckbu1n4rve9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBdqGAgv-wExxRA2ifMEwZpuVsdYqD5TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46649118081-hsr7k40i2ln8qkb78o8ilckbu1n4rve9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
